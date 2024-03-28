@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-Hello there! I'm [Your Name], a software developer with a passion for programming languages like Python, C, C++, and more, and I enjoy using various development tools to bring my projects to life. Here's a quick overview of my skills and the tools I use:
+Hello there! I'm Samir, an electronics and ict student with a passion for programming languages like Python, C, C++, and more, and I enjoy using various development tools to bring my projects to life. Here's a quick overview of my skills and the tools I use:
 
 ## Languages I Speak
 
@@ -39,13 +39,11 @@ Hello there! I'm [Your Name], a software developer with a passion for programmin
 ![Fusion](https://placehold.it/100x100) <!-- Replace with Fusion icon link -->
 ![Waveforms](https://placehold.it/100x100) <!-- Replace with Waveforms icon link -->
 
-(Note: Replace the `placehold.it/100x100` with actual links to the icons for Vitis, Vivado, GitKraken, Audacity, Fusion, and Waveforms.)
 
 ## My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=smachkour&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-(Replace `yourusername` with your actual GitHub username to display your stats.)
 
 ## Let's Connect!
 
