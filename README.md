@@ -21,15 +21,27 @@ Hello there! I'm Samir, an electronics and ict student with a passion for progra
 
 ## Languages I Speak
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Structured Text](https://img.shields.io/badge/-Structured%20Text-007ACC?style=for-the-badge) <!-- Customize color -->
-![VHDL](https://img.shields.io/badge/-VHDL-E34F26?style=for-the-badge) <!-- Customize color -->
+<div>
+  <!-- Python -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <!-- C -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <!-- C++ -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <!-- CUDA, no direct icon for CUDA in Devicon, using NVIDIA as a stand-in -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nvidia/nvidia-original.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
+  <!-- HTML -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <!-- CSS -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <!-- React -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <!-- VSCode -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+  <!-- GitKraken, no direct icon for GitKraken in Devicon -->
+  <!-- For tools without direct Devicon icons, consider linking to an appropriate image or using a generic programming icon as a placeholder -->
+</div>
+
 
 ## Tools I Use
 
