@@ -35,28 +35,28 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <!-- VHDL -->
+  ![VHDL](https://via.placeholder.com/50x50/000000?text=Vitis) <!-- Green box with 'Vitis' -->
 
 ## Tools I use
-  <!-- Vitis -->
-  <img src="https://github.com/smachkour/smachkour/tree/main/icons/xilinx.jpg" title="Vitis" alt="Vitis & Vivado" width="50" height="50"/>&nbsp; <!-- Replace with Vitis icon link -->
+    <!-- Vitis -->
+  ![Vitis](https://via.placeholder.com/50x50/008000?text=Vitis) <!-- Green box with 'Vitis' -->
+  <!-- Vivado -->
+  ![Vivado](https://via.placeholder.com/50x50/0000FF?text=Vivado) <!-- Blue box with 'Vivado' -->
   <!-- GitKraken -->
-  <img src="https://placehold.it/50x50?text=GitKraken" title="GitKraken" alt="GitKraken" width="50" height="50"/>&nbsp; <!-- Replace with GitKraken icon link -->
+  ![GitKraken](https://via.placeholder.com/50x50/800080?text=GitKraken) <!-- Purple box with 'GitKraken' -->
   <!-- Audacity -->
-  <img src="https://placehold.it/50x50?text=Audacity" title="Audacity" alt="Audacity" width="50" height="50"/>&nbsp; <!-- Replace with Audacity icon link -->
+  ![Audacity](https://via.placeholder.com/50x50/FFA500?text=Audacity) <!-- Orange box with 'Audacity' -->
   <!-- Fusion -->
-  <img src="https://placehold.it/50x50?text=Fusion" title="Fusion" alt="Fusion" width="50" height="50"/>&nbsp; <!-- Replace with Fusion icon link -->
+  ![Fusion](https://via.placeholder.com/50x50/FF0000?text=Fusion) <!-- Red box with 'Fusion' -->
   <!-- Waveforms -->
-  <img src="https://placehold.it/50x50?text=Waveforms" title="Waveforms" alt="Waveforms" width="50" height="50"/>&nbsp; <!-- Replace with Waveforms icon link -->
-  <!-- Beckhoff Technologies -->
-  <img src="https://placehold.it/50x50?text=Beckhoff" title="Beckhoff" alt="Beckhoff"/>&nbsp; <!-- Replace with Beckhoff icon link -->
+  ![Waveforms](https://via.placeholder.com/50x50/00FFFF?text=Waveforms) <!-- Cyan box with 'Waveforms' -->
+    <!-- Qt -->
+  ![Qt](https://via.placeholder.com/50x50/5C2D91?text=Qt) <!-- Deep Purple box with 'Qt' -->
   <!-- ModusToolbox -->
-  <img src="https://placehold.it/50x50?text=ModusToolbox" title="ModusToolbox" alt="ModusToolbox"/>&nbsp; <!-- Replace with ModusToolbox icon link -->
-  <!-- Qt -->
-  <img src="https://placehold.it/50x50?text=Qt" title="Qt" alt="Qt"/>&nbsp; <!-- Replace with Qt icon link -->
-  <!-- VSCode -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-
-
+  ![ModusToolbox](https://via.placeholder.com/50x50/008B8B?text=ModusToolbox) <!-- Dark Cyan box with 'ModusToolbox' -->
+  <!-- TwinCAT -->
+  ![TwinCAT](https://via.placeholder.com/50x50/FFD700?text=TwinCAT) <!-- Gold box with 'TwinCAT' -->
 </div>
 
 
