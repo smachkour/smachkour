@@ -39,25 +39,15 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
   ![VHDL](https://via.placeholder.com/50x50/000000?text=Vitis) <!-- Green box with 'Vitis' -->
 
 ## Tools I use
-    <!-- Vitis -->
-  ![Vitis](https://via.placeholder.com/50x50/008000?text=Vitis) <!-- Green box with 'Vitis' -->
-  <!-- Vivado -->
-  ![Vivado](https://via.placeholder.com/50x50/0000FF?text=Vivado) <!-- Blue box with 'Vivado' -->
-  <!-- GitKraken -->
-  ![GitKraken](https://via.placeholder.com/50x50/800080?text=GitKraken) <!-- Purple box with 'GitKraken' -->
-  <!-- Audacity -->
-  ![Audacity](https://via.placeholder.com/50x50/FFA500?text=Audacity) <!-- Orange box with 'Audacity' -->
-  <!-- Fusion -->
-  ![Fusion](https://via.placeholder.com/50x50/FF0000?text=Fusion) <!-- Red box with 'Fusion' -->
-  <!-- Waveforms -->
-  ![Waveforms](https://via.placeholder.com/50x50/00FFFF?text=Waveforms) <!-- Cyan box with 'Waveforms' -->
-    <!-- Qt -->
-  ![Qt](https://via.placeholder.com/50x50/5C2D91?text=Qt) <!-- Deep Purple box with 'Qt' -->
-  <!-- ModusToolbox -->
-  ![ModusToolbox](https://via.placeholder.com/50x50/008B8B?text=ModusToolbox) <!-- Dark Cyan box with 'ModusToolbox' -->
-  <!-- TwinCAT -->
-  ![TwinCAT](https://via.placeholder.com/50x50/FFD700?text=TwinCAT) <!-- Gold box with 'TwinCAT' -->
-</div>
+![Vitis](https://img.shields.io/badge/-Vitis-008000?style=for-the-badge) <!-- Green badge for Vitis -->
+![Vivado](https://img.shields.io/badge/-Vivado-0000FF?style=for-the-badge) <!-- Blue badge for Vivado -->
+![GitKraken](https://img.shields.io/badge/-GitKraken-800080?style=for-the-badge) <!-- Purple badge for GitKraken -->
+![Audacity](https://img.shields.io/badge/-Audacity-FFA500?style=for-the-badge) <!-- Orange badge for Audacity -->
+![Fusion](https://img.shields.io/badge/-Fusion-FF0000?style=for-the-badge) <!-- Red badge for Fusion -->
+![Waveforms](https://img.shields.io/badge/-Waveforms-00FFFF?style=for-the-badge) <!-- Cyan badge for Waveforms -->
+![Qt](https://img.shields.io/badge/-Qt-5C2D91?style=for-the-badge) <!-- Deep Purple badge for Qt -->
+![ModusToolbox](https://img.shields.io/badge/-ModusToolbox-008B8B?style=for-the-badge) <!-- Dark Cyan badge for ModusToolbox -->
+![TwinCAT](https://img.shields.io/badge/-TwinCAT-FFD700?style=for-the-badge) <!-- Gold badge for TwinCAT -->
 
 
 
