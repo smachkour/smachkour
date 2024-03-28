@@ -36,19 +36,19 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <!-- VHDL -->
-  ![VHDL](https://via.placeholder.com/50x50/000000?text=Vitis) <!-- Green box with 'Vitis' -->
+  ![VHDL](https://img.shields.io/badge/-VHDL-000000?style=for-the-badge) <!-- Green badge for Vitis -->
 
 ## Tools I use
 ![Vitis](https://img.shields.io/badge/-Vitis-008000?style=for-the-badge) <!-- Green badge for Vitis -->
 ![Vivado](https://img.shields.io/badge/-Vivado-0000FF?style=for-the-badge) <!-- Blue badge for Vivado -->
 ![GitKraken](https://img.shields.io/badge/-GitKraken-800080?style=for-the-badge) <!-- Purple badge for GitKraken -->
+![Office 365](https://img.shields.io/badge/-Office365-FFD700?style=for-the-badge) <!-- Gold badge for TwinCAT -->
 ![Audacity](https://img.shields.io/badge/-Audacity-FFA500?style=for-the-badge) <!-- Orange badge for Audacity -->
 ![Fusion](https://img.shields.io/badge/-Fusion-FF0000?style=for-the-badge) <!-- Red badge for Fusion -->
 ![Waveforms](https://img.shields.io/badge/-Waveforms-00FFFF?style=for-the-badge) <!-- Cyan badge for Waveforms -->
 ![Qt](https://img.shields.io/badge/-Qt-5C2D91?style=for-the-badge) <!-- Deep Purple badge for Qt -->
 ![ModusToolbox](https://img.shields.io/badge/-ModusToolbox-008B8B?style=for-the-badge) <!-- Dark Cyan badge for ModusToolbox -->
 ![TwinCAT](https://img.shields.io/badge/-TwinCAT-FFD700?style=for-the-badge) <!-- Gold badge for TwinCAT -->
-
 
 
 ## My GitHub Stats
