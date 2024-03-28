@@ -37,14 +37,20 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 
 ## Tools I use
+  <!-- Vitis -->
+  <img src="https://placehold.it/50x50?text=Vitis" title="Vitis" alt="Vitis" width="50" height="50"/>&nbsp; <!-- Replace with Vitis icon link -->
+  <!-- Vivado -->
+  <img src="https://placehold.it/50x50?text=Vivado" title="Vivado" alt="Vivado" width="50" height="50"/>&nbsp; <!-- Replace with Vivado icon link -->
+  <!-- GitKraken -->
+  <img src="https://placehold.it/50x50?text=GitKraken" title="GitKraken" alt="GitKraken" width="50" height="50"/>&nbsp; <!-- Replace with GitKraken icon link -->
+  <!-- Audacity -->
+  <img src="https://placehold.it/50x50?text=Audacity" title="Audacity" alt="Audacity" width="50" height="50"/>&nbsp; <!-- Replace with Audacity icon link -->
+  <!-- Fusion -->
+  <img src="https://placehold.it/50x50?text=Fusion" title="Fusion" alt="Fusion" width="50" height="50"/>&nbsp; <!-- Replace with Fusion icon link -->
+  <!-- Waveforms -->
+  <img src="https://placehold.it/50x50?text=Waveforms" title="Waveforms" alt="Waveforms" width="50" height="50"/>&nbsp; <!-- Replace with Waveforms icon link -->
 
-  <!-- Placeholder images for tools without direct icons -->
-  ![Vitis](https://placehold.it/50x50?text=Vitis) <!-- Replace with Vitis icon link -->
-  ![Vivado](https://placehold.it/50x50?text=Vivado) <!-- Replace with Vivado icon link -->
-  ![GitKraken](https://placehold.it/50x50?text=GitKraken) <!-- Replace with GitKraken icon link -->
-  ![Audacity](https://placehold.it/50x50?text=Audacity) <!-- Replace with Audacity icon link -->
-  ![Fusion](https://placehold.it/50x50?text=Fusion) <!-- Replace with Fusion icon link -->
-  ![Waveforms](https://placehold.it/50x50?text=Waveforms) <!-- Replace with Waveforms icon link -->
+
     <!-- Beckhoff Technologies -->
   <img src="https://placehold.it/50x50?text=Beckhoff" title="Beckhoff" alt="Beckhoff"/>&nbsp; <!-- Replace with Beckhoff icon link -->
   <!-- ModusToolbox -->
