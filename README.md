@@ -38,7 +38,7 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
   <!-- VHDL -->
   
 ![VHDL](https://img.shields.io/badge/-VHDL-000400?style=for-the-badge)
-![ST-PLC](https://img.shields.io/badge/-ST-PLC-000400?style=for-the-badge)
+![ST-PLC](https://img.shields.io/badge/-ST_PLC-000400?style=for-the-badge)
 
 
 
