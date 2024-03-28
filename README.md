@@ -36,8 +36,10 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <!-- VHDL -->
-  ![VHDL](https://img.shields.io/badge/-VHDL-000400?style=for-the-badge) <!-- Green badge for Vitis -->
-<div>
+  ![VHDL](https://img.shields.io/badge/-VHDL-000400?style=for-the-badge)
+
+
+
 ## Tools I use
 ![Vitis](https://img.shields.io/badge/-Vitis-008000?style=for-the-badge) <!-- Green badge for Vitis -->
 ![Vivado](https://img.shields.io/badge/-Vivado-0000FF?style=for-the-badge) <!-- Blue badge for Vivado -->
