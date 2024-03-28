@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to My GitHub Profile!
+
+Hello there! I'm [Your Name], a software developer with a passion for programming languages like Python, C, C++, and more, and I enjoy using various development tools to bring my projects to life. Here's a quick overview of my skills and the tools I use:
+
+## Languages I Speak
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+## Tools I Use
+
+![Vitis](https://placehold.it/100x100) <!-- Replace with Vitis icon link -->
+![Vivado](https://placehold.it/100x100) <!-- Replace with Vivado icon link -->
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitKraken](https://placehold.it/100x100) <!-- Replace with GitKraken icon link -->
+![Audacity](https://placehold.it/100x100) <!-- Replace with Audacity icon link -->
+![Fusion](https://placehold.it/100x100) <!-- Replace with Fusion icon link -->
+![Waveforms](https://placehold.it/100x100) <!-- Replace with Waveforms icon link -->
+
+(Note: Replace the `placehold.it/100x100` with actual links to the icons for Vitis, Vivado, GitKraken, Audacity, Fusion, and Waveforms.)
+
+## My GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+(Replace `yourusername` with your actual GitHub username to display your stats.)
+
+## Let's Connect!
+
+Feel free to reach out to me on [LinkedIn](#) (add your LinkedIn profile link) or visit my [GitHub](https://github.com/yourusername) for more information about my projects and experience.
+
+---
+
+Thank you for visiting my profile!
