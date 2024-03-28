@@ -49,7 +49,7 @@ Hello there! I'm Samir, an electronics and ict student with a passion for progra
 
 ## Let's Connect!
 
-Feel free to reach out to me on [LinkedIn](#) (add your LinkedIn profile link) or visit my [GitHub](https://github.com/yourusername) for more information about my projects and experience.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/samir-machkour/)  or visit my [GitHub](https://github.com/smachkour) for more information about my projects and experience.
 
 ---
 
