@@ -38,9 +38,7 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
 
 ## Tools I use
   <!-- Vitis -->
-  <img src="https://placehold.it/50x50?text=Vitis" title="Vitis" alt="Vitis" width="50" height="50"/>&nbsp; <!-- Replace with Vitis icon link -->
-  <!-- Vivado -->
-  <img src="https://placehold.it/50x50?text=Vivado" title="Vivado" alt="Vivado" width="50" height="50"/>&nbsp; <!-- Replace with Vivado icon link -->
+  <img src="https://github.com/smachkour/smachkour/tree/main/icons/xilinx.jpg" title="Vitis" alt="Vitis & Vivado" width="50" height="50"/>&nbsp; <!-- Replace with Vitis icon link -->
   <!-- GitKraken -->
   <img src="https://placehold.it/50x50?text=GitKraken" title="GitKraken" alt="GitKraken" width="50" height="50"/>&nbsp; <!-- Replace with GitKraken icon link -->
   <!-- Audacity -->
@@ -49,9 +47,7 @@ Hello there! I'm Samir, an electronics and ICT student with a passion for progra
   <img src="https://placehold.it/50x50?text=Fusion" title="Fusion" alt="Fusion" width="50" height="50"/>&nbsp; <!-- Replace with Fusion icon link -->
   <!-- Waveforms -->
   <img src="https://placehold.it/50x50?text=Waveforms" title="Waveforms" alt="Waveforms" width="50" height="50"/>&nbsp; <!-- Replace with Waveforms icon link -->
-
-
-    <!-- Beckhoff Technologies -->
+  <!-- Beckhoff Technologies -->
   <img src="https://placehold.it/50x50?text=Beckhoff" title="Beckhoff" alt="Beckhoff"/>&nbsp; <!-- Replace with Beckhoff icon link -->
   <!-- ModusToolbox -->
   <img src="https://placehold.it/50x50?text=ModusToolbox" title="ModusToolbox" alt="ModusToolbox"/>&nbsp; <!-- Replace with ModusToolbox icon link -->
