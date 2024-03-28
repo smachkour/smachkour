@@ -36,8 +36,7 @@ Hello there! I'm Samir, an electronics and ict student with a passion for progra
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <!-- VSCode -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+
   <!-- GitKraken, no direct icon for GitKraken in Devicon -->
   <!-- For tools without direct Devicon icons, consider linking to an appropriate image or using a generic programming icon as a placeholder -->
 </div>
@@ -52,6 +51,9 @@ Hello there! I'm Samir, an electronics and ict student with a passion for progra
 ![Audacity](https://placehold.it/100x100) <!-- Replace with Audacity icon link -->
 ![Fusion](https://placehold.it/100x100) <!-- Replace with Fusion icon link -->
 ![Waveforms](https://placehold.it/100x100) <!-- Replace with Waveforms icon link -->
+
+  <!-- VSCode -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 
 
 ## My GitHub Stats
