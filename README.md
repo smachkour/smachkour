@@ -29,7 +29,7 @@ Hello there! I'm Samir, an electronics and ict student with a passion for progra
   <!-- C++ -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
   <!-- CUDA, no direct icon for CUDA in Devicon, using NVIDIA as a stand-in -->
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nvidia.svg" title="CUDA" alt="CUDA" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nvidia.svg" title="CUDA" alt="CUDA" width="50" height="50" color="white"/>&nbsp;
   <!-- HTML -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
   <!-- CSS -->
