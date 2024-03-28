@@ -28,6 +28,8 @@ Hello there! I'm Samir, an electronics and ict student with a passion for progra
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Structured Text](https://img.shields.io/badge/-Structured%20Text-007ACC?style=for-the-badge) <!-- Customize color -->
+![VHDL](https://img.shields.io/badge/-VHDL-E34F26?style=for-the-badge) <!-- Customize color -->
 
 ## Tools I Use
 
