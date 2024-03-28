@@ -37,23 +37,60 @@ Hello there! I'm Samir, an electronics and ict student with a passion for progra
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 
-  <!-- GitKraken, no direct icon for GitKraken in Devicon -->
-  <!-- For tools without direct Devicon icons, consider linking to an appropriate image or using a generic programming icon as a placeholder -->
+  <!-- VHDL -->
+  <img src="https://placehold.it/50x50?text=VHDL" title="VHDL" alt="VHDL"/>&nbsp; <!-- Replace with VHDL icon link -->
+  <!-- Structured Text (ST) -->
+  <img src="https://placehold.it/50x50?text=ST" title="Structured Text" alt="ST"/>&nbsp; <!-- Replace with ST icon link -->
 </div>
 
 
 ## Tools I Use
 
-![Vitis](https://placehold.it/100x100) <!-- Replace with Vitis icon link -->
-![Vivado](https://placehold.it/100x100) <!-- Replace with Vivado icon link -->
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitKraken](https://placehold.it/100x100) <!-- Replace with GitKraken icon link -->
-![Audacity](https://placehold.it/100x100) <!-- Replace with Audacity icon link -->
-![Fusion](https://placehold.it/100x100) <!-- Replace with Fusion icon link -->
-![Waveforms](https://placehold.it/100x100) <!-- Replace with Waveforms icon link -->
+# Welcome to My GitHub Profile!
 
+Hello there! I'm Samir, an electronics and ICT student with a passion for programming languages like Python, C, C++, and more. I enjoy using various development tools to bring my projects to life. Here's a quick overview of my skills and the tools I use:
+
+## Languages & Tools
+
+<div>
+  <!-- Python -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <!-- C -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <!-- C++ -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <!-- CUDA, using NVIDIA as a stand-in -->
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nvidia.svg" title="CUDA" alt="CUDA" width="50" height="50"/>&nbsp;
+  <!-- HTML -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
+  <!-- CSS -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
+  <!-- React -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <!-- VSCode -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+
+
+
+  <!-- Placeholder images for tools without direct icons -->
+  ![Vitis](https://placehold.it/50x50?text=Vitis) <!-- Replace with Vitis icon link -->
+  ![Vivado](https://placehold.it/50x50?text=Vivado) <!-- Replace with Vivado icon link -->
+  ![GitKraken](https://placehold.it/50x50?text=GitKraken) <!-- Replace with GitKraken icon link -->
+  ![Audacity](https://placehold.it/50x50?text=Audacity) <!-- Replace with Audacity icon link -->
+  ![Fusion](https://placehold.it/50x50?text=Fusion) <!-- Replace with Fusion icon link -->
+  ![Waveforms](https://placehold.it/50x50?text=Waveforms) <!-- Replace with Waveforms icon link -->
+    <!-- Beckhoff Technologies -->
+  <img src="https://placehold.it/50x50?text=Beckhoff" title="Beckhoff" alt="Beckhoff"/>&nbsp; <!-- Replace with Beckhoff icon link -->
+  <!-- ModusToolbox -->
+  <img src="https://placehold.it/50x50?text=ModusToolbox" title="ModusToolbox" alt="ModusToolbox"/>&nbsp; <!-- Replace with ModusToolbox icon link -->
+  <!-- Qt -->
+  <img src="https://placehold.it/50x50?text=Qt" title="Qt" alt="Qt"/>&nbsp; <!-- Replace with Qt icon link -->
+  <!-- VSCode -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+
+
+</div>
+
 
 
 ## My GitHub Stats
